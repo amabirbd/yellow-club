@@ -6,8 +6,8 @@ function Navigationbar() {
         <React.Fragment>
 
             <div class="navbar">
-            <a className="logo"><inline className="yellow">Yellow</inline> Club</a>
-            <a href="#home">About Us</a>
+            <span className="logo"><inline className="yellow">Yellow</inline> Club</span>
+            <span>About Us</span>
             {/* <a href="#news">News</a> */}
             <div class="dropdown">
                 <button class="dropbtn">Categories 
@@ -20,19 +20,19 @@ function Navigationbar() {
                 <div class="row">
                     <div class="column">
                     <h3>Gents</h3>
-                    <a href="#">t shirts</a>
-                    <a href="#">shirts</a>
-                    <a href="#">pants</a>
-                    <a href="#">Hoodies</a>
+                    <div>t shirts</div>
+                    <div>shirts</div>
+                    <div>pnts</div>
+                    <div>Hoodies</div>
                     </div>
                     <div class="column">
                     <h3>Female</h3>
-                    <a href="#">t shirts</a>
-                    <a href="#">pants</a>
+                    <div>t shirts</div>
+                    <div>pants</div>
                     </div>
                     <div class="column">
                     <h3>Children</h3>
-                    <a href="#">tshirts</a>
+                    <div>tshirts</div>
                     </div>
                 </div>
                 </div>
