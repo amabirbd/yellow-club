@@ -20,6 +20,7 @@ body {
 .sec-header {
   margin-left: 10px;
   display: block;
+  font-size: 3em;
 }
 
 .gridgallery {
