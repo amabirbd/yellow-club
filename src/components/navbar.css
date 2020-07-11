@@ -47,6 +47,7 @@
   .navbar span:hover, .dropdown:hover .dropbtn {
     background-color: #ffd717;
     cursor: pointer;
+    border-radius: 1px;
   }
   
   .dropdown-content {

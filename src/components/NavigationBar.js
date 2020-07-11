@@ -5,7 +5,7 @@ function Navigationbar() {
     return (
         <React.Fragment>
 
-            <div class="navbar">
+            <div className="navbar">
             <span className="logo"><inline className="yellow">Yellow</inline> Club</span>
             <span>About Us</span>
             {/* <a href="#news">News</a> */}
@@ -13,7 +13,7 @@ function Navigationbar() {
                 <button class="dropbtn">Categories 
                 <i class="fa fa-caret-down"></i>
                 </button>
-                <div class="dropdown-content">
+                <div className="dropdown-content">
                 {/* <div class="header">
                     <h2>Clothings</h2>
                 </div>    */}

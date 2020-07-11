@@ -8,21 +8,20 @@ import jns from '../assets/jns.jpg'
 
 function PopularItems() {
     return (
-        <div>
+        <div className="clearfix">
             
-            <React.Fragment >
             
-            <h1>Popular Items</h1>
+            <h1 class="sec-header ">Popular Items</h1>
                 <div className="product-card">
-                    <ProductCard className="pc" img={shirt} />
-                    <ProductCard className="pc" img={bts} />
-                    <ProductCard className="pc" img={shirthang} />
-                    <ProductCard className="pc" img={jns} />
+                    <ProductCard className="pc" type="tshirt" img={shirt} />
+                    <ProductCard className="pc" type="black tshirt" img={bts} />
+                    <ProductCard className="pc" type="shirt" img={shirthang} />
+                    <ProductCard className="pc" type="pant" img={jns} />
+                    <br/>
                     
                     
    
                 </div>
-        </React.Fragment>
         </div>
     )
 }
