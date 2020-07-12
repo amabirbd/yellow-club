@@ -53,9 +53,9 @@ function Footer() {
                 <li>address</li>
                 <li>social media</li> */}
 
-                <a href="https://www.facebook.com/almuntasir1"> <FaFacebookSquare /> </a>
-                <a href="https://www.facebook.com/almuntasir1"> <FaYoutube /> </a>
-                <a href="https://github.com/amabirbd"> <FaInstagram /> </a>
+                <a href="https://www.facebook.com/Yellow-Club-101626151257350"> <FaFacebookSquare /> </a>
+                <a href="https://www.facebook.com/Yellow-Club-101626151257350"> <FaYoutube /> </a>
+                <a href="https://www.facebook.com/Yellow-Club-101626151257350"> <FaInstagram /> </a>
 
                 
 
