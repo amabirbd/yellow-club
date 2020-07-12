@@ -5,7 +5,7 @@ import shirthang from '../assets/shirthang.jpg'
 import jns from '../assets/jns.jpg'
 import boy from '../assets/boy.jpg'
 import girl from '../assets/girl.jpg'
-import stripedtshirt from '../assets/stripedtshirt.jpg'
+// import stripedtshirt from '../assets/stripedtshirt.jpg'
 import jeans from '../assets/jeans.jpg'
 
 
