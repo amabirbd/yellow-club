@@ -22,13 +22,31 @@ body {
   display: block;
   font-size: 3em;
 }
-
+/* 
 .gridgallery {
   display: block;
   white-space: pre;
-}
+} */
 
 .container {
-  margin: 10px;
+  margin: 20px;
   padding: 5px;
+  float: left;
 }
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* .footer-list {
+  list-style-type: none;
+  background-color: #ffd717;
+}
+
+.footer {
+  display: block;
+} */
+
+/* clear:both */

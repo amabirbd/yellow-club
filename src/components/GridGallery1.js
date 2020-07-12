@@ -4,7 +4,7 @@ import jeans from '../assets/jeans.jpg'
 
 function GridGallery1() {
     return (
-        <div className="grid-gallery">
+        <div className="clearfix grid-gallery">
             <h1 className="sec-header">Product Gallery</h1>
             <div className="row">
                 <div className="column">
